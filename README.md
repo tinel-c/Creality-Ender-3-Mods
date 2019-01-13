@@ -8,7 +8,7 @@ The MKS Gen-L 1.0 8 Bit 3D Printer Controller Board is designed by Makerbase and
 Github link: https://github.com/makerbase-mks?tab=repositories
 
 Configuration for the TMC driver: https://www.deviousweb.com/2019/01/05/ender-3-pro-mks-gen-l-tmc-2208-upgrade/
-
+Pin configuration for the drivers: https://reprap.org/mediawiki/images/3/3f/Arduinomegapololushieldschematic.png
 
 ## TFT32 Display module
 
