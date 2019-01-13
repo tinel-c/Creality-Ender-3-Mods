@@ -21,4 +21,5 @@ Thingiverse link: https://www.thingiverse.com/thing:3025608
 ## TMC Drivers
 
 Link: http://marlinfw.org/docs/hardware/tmc_drivers.html
-specificatin: https://github.com/FYSETC
+Specificatin: https://github.com/FYSETC
+Official shop: https://www.aliexpress.com/store/product/4pcs-TMC2208-v1-2-Stepping-Motor-Mute-Driver-Stepstick-Power-Tube-Built-in-Driver-Current-1/3480083_32848573038.html?af=20190113clmld5mev8qm&aff_platform=promotion&cpt=1547392664999&sk=jiMVVzv&aff_trace_key=3cbbd19361964fc48abe1524a5067445-1547392664999-04115-jiMVVzv&terminal_id=7ac9595c9400487daa262b4f97d88666
