@@ -21,3 +21,4 @@ Thingiverse link: https://www.thingiverse.com/thing:3025608
 ## TMC Drivers
 
 Link: http://marlinfw.org/docs/hardware/tmc_drivers.html
+specificatin: https://github.com/FYSETC
